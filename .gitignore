@@ -240,3 +240,6 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/FunctionApps/SeedEventHub.cs
+/Program.cs
+/project.json
